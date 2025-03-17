@@ -2,6 +2,6 @@ git clone https://github.com/codingacharya/aesencryption.git
 
 cd aesencryption
 
-streamlit run secure_data_app.py
+pip install streamlit pycryptodome scapy pandas
 
 streamlit run encrypt.py
